@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shehroz4411-coder.github.io/ShehrozKhan4411/sitemap.xml
